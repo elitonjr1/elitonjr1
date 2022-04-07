@@ -3,7 +3,7 @@ Eu atualmente trabalho com C# - .Net
 
 - 👀 Estou interessado em upar projetos feitos por mim para que sirva como portfolio e para que possa mostrar minhas habilidades tecnicas como dev.
 
-- 🌱 Atualmente estou começando a aprender o mundo do .NetCore e buscando trabalhar bastante com ele para que possa ter uma boa vivencia com o framework.
+- 🌱 Atualmente estou me aprofundando em React, Node, Typescript e MongoDB. Buscando novos desafios e crescimento profissional.
 
 - 📫 E-email para contato: elitonjr1@gmail.com
 
