@@ -1,0 +1,5 @@
+requests
+python-dotenv
+telethon
+pillow
+edge-tts
