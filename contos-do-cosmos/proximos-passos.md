@@ -2,8 +2,7 @@
 
 ## Agora
 
-1. **Trazer o código pro repositório.** Copiar `universo.py`, `gemini_art.py`, `ouvir_narracao.py` e a pasta `arte/` pra `contos-do-cosmos/codigo/`, sem o `.env`. Assim o projeto deixa de depender de uma pasta temporária no PC.
-2. **Próximo lote (a fila acaba no domingo 1/11).** Sugestão de 7, já no formato gancho-primeiro:
+1. **Domingo 1/11: analisar os canais primeiro** (decisão de 28/10). O próximo lote só sai depois da análise. Ideias de gancho pra considerar:
    - "A estrela que você está vendo agora pode nem existir mais."
    - "Se o universo é infinito, por que a noite é escura?"
    - "Seu pé envelhece mais devagar que sua cabeça." (tempo mais lento perto do chão)
